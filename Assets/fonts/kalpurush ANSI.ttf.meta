@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ff9d6eaaffb7ffe44923d6ec43764136
+timeCreated: 1491250693
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kalpurush ANSI
+  fontNames:
+  - Kalpurush ANSI
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

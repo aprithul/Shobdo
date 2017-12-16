@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 90f5e4e6567d7da4993eee964c7ff8d3
+timeCreated: 1491246487
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PandulipiMJ
+  fontNames:
+  - PandulipiMJ
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

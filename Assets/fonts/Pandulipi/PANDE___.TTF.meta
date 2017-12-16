@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4c32b27f694b74d4eb8e6d0850ff2d63
+timeCreated: 1491246487
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PandulipiEMJ
+  fontNames:
+  - PandulipiEMJ
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 018a143069eed234f80bcbca555136e8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
